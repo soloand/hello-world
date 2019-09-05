@@ -1,2 +1,3 @@
 # hello-world
-Just a test repository
+
+This is just soloand first edit on Github
